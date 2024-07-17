@@ -1,4 +1,4 @@
-Cecho "# sabarinath-intellect" >> README.md
+echo "# sabarinath-intellect" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
@@ -9,10 +9,3 @@ git push -u origin main
 git remote add origin git@github.com:sabarinath-intellect/sabarinath-intellect.git
 git branch -M main
 git push -u origin main
-
-C
-C
-C
-C
-i# sabarinath-intellect
-# sabarinath-intellect
